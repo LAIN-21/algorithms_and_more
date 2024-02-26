@@ -46,6 +46,7 @@ class linter {
 }
 
 const newLinter = new linter;
+const testCode = "{ var x = { y: [1, 2, 3]})"
+const run = newLinter.lint(testCode)
 
-newLinter.initialize
-console.log(newLinter.lint("{ var x = { y: [1, 2, 3]})"))
+console.log(run)
