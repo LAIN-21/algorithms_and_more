@@ -1,3 +1,5 @@
+// This sorting algorithm compares two numbers in an array in order and switches their position if necessary. It loops through the array until no more switches are needed. Credit to 'A Common Sense Guide to Data Structures and Algorithms'.
+
 function bubbleSort(arr) {
     let n = arr.length - 1;
     let sorted = false;

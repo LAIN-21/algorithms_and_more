@@ -1,3 +1,5 @@
+# Credit to 'A Common Sense Guide to Data Structures and Algorithms'.
+
 def binary_search(array, x):
     low_end = 0
     high_end = len(array) - 1
