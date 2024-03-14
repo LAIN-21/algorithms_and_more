@@ -1,4 +1,5 @@
-// This algorithm checks js code for proper use of braces. This is meant as practice and introduction to the use of stacks and as always credit where it is due: A Common Sense Guide to Data Structures and Algorithms and ChatGPT-4 for syntax issues.
+// This algorithm checks js code for proper use of braces. This is meant as practice and introduction to the use of stacks 
+// and as always credit where it is due: A Common Sense Guide to Data Structures and Algorithms and ChatGPT-4 for syntax issues.
 
 class linter {
     constructor() {
